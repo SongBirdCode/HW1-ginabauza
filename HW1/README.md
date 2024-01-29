@@ -2,7 +2,7 @@
 
 ## Description
 
- To recieve starter code, properly debug HTML and CSS sections and clean up the <div> soup chaos. 
+ To recieve starter code, properly debug HTML and CSS sections and clean up the "div soup" chaos. 
 
 ## Installation
 
