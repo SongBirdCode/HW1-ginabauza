@@ -1,26 +1,22 @@
-# Challenge 1 
+# Code Refactor Challenge for Horiseon Social Solution Services by Gina Bauza
 
 ## Description
 
- To recieve starter code, properly debug HTML and CSS sections and clean up the "div soup" chaos. 
+ For this challenge, I was tasked with cleaning (debugging) HTML and CSS files for front-end website work for the fictional marketing agency, Horiseon.
 
-## Installation
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+## Description
 
-followed up on reviewing elements and css adjustments as needed.
+These are the following changes to enhance website accessibility:
 
-placed green placements on sectioning initiatives taken. 
+Fixed the dreaded div soup chaos with appropriate headings.
+Semantic HTML elements replace non-semantic elements.
+HTML structure and CSS code reordered to be in alignment with each other and functional.
+Descriptive alt attributes added to image tags.
+Added Welcome Title.
+Corrected issue with Right Float.
+CSS code consolidated - Services and Benefits are now grouped together and not individualized. Code redundancies removed.
+Centered footer section on website.
 
 ## Usage
 
@@ -36,7 +32,7 @@ I used sources from reading developer.mozilla.org, learn.shayhowe.com, w3schools
 
 ## License
 
-MIT License © 2023 Songbirdcode
+MIT License © 2023 Gina Bauza - Songbirdcode
 ---
 
 ## Badges
@@ -49,3 +45,4 @@ HTML and CSS within UI
 
 ## Tests
 
+Tested deployment of website. 
